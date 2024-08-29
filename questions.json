@@ -1,0 +1,222 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Lily and Ben prepared 4/8 of an invitation. What is the fraction in its simplest form?",
+        "options": [
+            "2/8",
+            "2/4",
+            "1/2",
+            "1/4"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Mr. Johnson cut 6/12 of a sheet for Lily. What is this fraction in simplest form?",
+        "options": [
+            "1/2",
+            "3/6",
+            "2/4",
+            "1/4"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Ben used 18/36 of his paper for invitations. Simplify this fraction.",
+        "options": [
+            "2/3",
+            "1/4",
+            "1/2",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Lily had 10/20 of her invitations ready. What is the simplest form of this fraction?",
+        "options": [
+            "1/5",
+            "1/4",
+            "1/2",
+            "1/3"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Mr. Johnson cut 9/12 of a sheet for the extra invites. Simplify this fraction.",
+        "options": [
+            "1/4",
+            "3/4",
+            "1/2",
+            "2/3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Lily realized that 15/60 of her invitations were unnecessary. Simplify the fraction.",
+        "options": [
+            "1/4",
+            "1/2",
+            "2/6",
+            "None of the above"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Ben discovered he made 12/24 of the invitations incorrectly. What is this fraction in simplest form?",
+        "options": [
+            "1/4",
+            "1/2",
+            "2/6",
+            "None of the above"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Lily realized that 20/50 of the invitations were damaged. Simplify this fraction.",
+        "options": [
+            "1/2",
+            "1/4",
+            "2/3",
+            "2/5"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Lily and Ben each prepared 3/4 of an invitation. How much of an invitation did they prepare together?",
+        "options": [
+            "3/4",
+            "4/4",
+            "6/4",
+            "5/4"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Mr. Johnson helped Lily and Ben by cutting 2/4 of a sheet of paper for Lily and 1/4 for Ben. How much of the sheet did he cut in total?",
+        "options": [
+            "2/4",
+            "1/4",
+            "4/4",
+            "3/4"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q11",
+        "question": "If Lily added the 7/9 paper of the invitation to the 4/9 she already prepared, how much of the invitation does she have now?",
+        "options": [
+            "7/9",
+            "11/9",
+            "4/9",
+            "3/9"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12",
+        "question": "Ben finished 12/15 of his invitation and added it to the 7/15 he prepared earlier. How much of the invitation has he prepared now?",
+        "options": [
+            "19/15",
+            "12/15",
+            "5/15",
+            "7/15"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q13",
+        "question": "If Mr. Johnson cuts 14/17 of a sheet for Lily, 13/17 for Ben, and another 11/17 for extra invites, how much of the sheet did he cut in total?",
+        "options": [
+            "14/17",
+            "58/17",
+            "13/17",
+            "38/17"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q14",
+        "question": "Lily has 7/8 of a sheet of decorative paper left after her project. She uses 3/8 of it to make a card. How much of the sheet does she have left?",
+        "options": [
+            "7/8",
+            "3/8",
+            "4/8",
+            "10/8"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15",
+        "question": "Ben had 7/6 of a large piece of construction paper. He gave 5/6 of it to Lily. How much of the construction paper does Ben have now?",
+        "options": [
+            "2/6",
+            "5/6",
+            "7/6",
+            "12/6"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16",
+        "question": "At the art festival, they used 9/10 of a large roll of ribbon. If 4/10 of the ribbon was used for decorations, how much ribbon is left?",
+        "options": [
+            "9/10",
+            "5/10",
+            "13/10",
+            "4/10"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17",
+        "question": "Mr. Johnson cut a large piece of paper into 15/17 pieces for the invites. If 12/17 of the paper was used for the first batch of invites, how much paper is remaining?",
+        "options": [
+            "15/17",
+            "12/17",
+            "27/17",
+            "3/17"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q18",
+        "question": "Lily and Ben prepared 13/14 of their invitations by the end of the first day. They managed to send out 11/14 of them. How many invitations do they still need to send?",
+        "options": [
+            "13/14",
+            "24/14",
+            "2/14",
+            "11/14"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Lily has 7/8 of a sheet of decorative paper. She receives another 3/8 sheet from Ben. After using 6/8 of a sheet for her project, how much decorative paper does she have left?",
+        "options": [
+            "4/8",
+            "10/8",
+            "16/8",
+            "3/8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20",
+        "question": "Ben has 3/5 of a jar of marbles. He buys another 4/5 of a jar of marbles at the store. After giving away 2/5 of the marbles to his friend, how many marbles does Ben have left?",
+        "options": [
+            "4/5",
+            "9/5",
+            "3/5",
+            "5/5"
+        ],
+        "correct": 3
+    }
+]
